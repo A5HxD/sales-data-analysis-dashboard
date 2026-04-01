@@ -7,7 +7,7 @@ This project analyzes the Global Superstore dataset to uncover key business insi
 - SQL
 - Excel
 - Power BI
--
+
 ## 📌 Dataset
 Global Superstore Dataset (pre-cleaned)
 
