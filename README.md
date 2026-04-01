@@ -22,13 +22,17 @@ Global Superstore Dataset (pre-cleaned)
 - Technology category generates highest profit margins
 - Seasonal trends indicate peak sales during specific months
 
-## 📂 Project Structure
+### Project Structure
+
+```text
 sales-data-analysis-dashboard/
-│
-├── data/ → Contains dataset files
-├── dashboard/ → Power BI (.pbix) file
-├── screenshots/ → Dashboard previews
-└── README.md → Project documentation
+├── data/
+│   └── global_superstore.xlsx      # Dataset file
+├── dashboard/
+│   └── sales_dashboard.pbix        # Power BI dashboard
+├── screenshots/
+│   └── dashboard.png               # Dashboard preview image
+└── README.md                       # Project documentation
 
 
 ## 🖼️ Dashboard Preview
