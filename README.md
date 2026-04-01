@@ -23,9 +23,12 @@ Global Superstore Dataset (pre-cleaned)
 - Seasonal trends indicate peak sales during specific months
 
 ## 📂 Project Structure
-data/ → dataset
-dashboard/ → Power BI file
-screenshots/ → dashboard preview
+sales-data-analysis-dashboard/
+│
+├── data/ → Contains dataset files
+├── dashboard/ → Power BI (.pbix) file
+├── screenshots/ → Dashboard previews
+└── README.md → Project documentation
 
 
 ## 🖼️ Dashboard Preview
