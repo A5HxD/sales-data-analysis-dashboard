@@ -7,6 +7,9 @@ This project analyzes the Global Superstore dataset to uncover key business insi
 - SQL
 - Excel
 - Power BI
+-
+## 📌 Dataset
+Global Superstore Dataset (pre-cleaned)
 
 ## 📊 Key Features
 - Interactive dashboard with KPIs (Sales, Profit, Orders)
@@ -14,10 +17,10 @@ This project analyzes the Global Superstore dataset to uncover key business insi
 - Customer segmentation insights
 - Trend analysis over time
 
-## 📈 Insights
-- Identified top-performing regions contributing significantly to overall revenue
-- Analyzed product categories driving maximum profit
-- Observed seasonal trends in sales performance
+## 📈 Key Insights
+- Top-performing regions contribute a major share of total revenue
+- Technology category generates highest profit margins
+- Seasonal trends indicate peak sales during specific months
 
 ## 📂 Project Structure
 data/ → dataset
@@ -27,6 +30,11 @@ screenshots/ → dashboard preview
 
 ## 🖼️ Dashboard Preview
 ![Dashboard](screenshots/dashboard.png)
+
+## ▶️ How to Use
+1. Download the `.pbix` file from the dashboard folder  
+2. Open in Power BI Desktop  
+3. Explore filters and visualizations to analyze business performance
 
 ## 🚀 Conclusion
 This project demonstrates how data analysis and visualization can be used to extract meaningful insights and support data-driven decision-making.
